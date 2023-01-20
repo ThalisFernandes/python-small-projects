@@ -1,0 +1,245 @@
+Sempre observo os pequenos sinais que me dão uma leitura da cooperação de uma pessoa, em
+uma escala que vai desde "Você parece uma boa pessoa e acredito em tudo que você está dizendo" até
+"Ligue para a polícia, chame a Polícia Federal, essa pessoa não está querendo boa coisa".
+Entendi que Kim estava um pouco em dúvida, assim, liguei para alguém de uma filial diferente. Na
+minha segunda ligação com Chris, o truque da pesquisa a encantou. A tática aqui é incluir as perguntas
+importantes entre aquelas sem conseqüências que são usadas para criar uma idéia de credibilidade.
+Antes de entrar com a pergunta sobre o número do ID de Comerciante do CreditChex, fiz um pequeno
+teste de última hora fazendo uma pergunta pessoal sobre há quanto tempo ela trabalhava no banco.
+Uma pergunta pessoal e como um campo minado — algumas pessoas pisam sobre uma mina e
+nunca percebem; no caso de outras pessoas, a mina explode e faz com que elas saiam correndo em
+busca de segurança. Assim sendo, se eu fizer uma pergunta pessoal, ela responder a pergunta e o tom
+da sua voz não mudar, isso significa que provavelmente ela não é cética sobre a natureza da solicita-
+ção. Posso seguramente fazer a pergunta que estou querendo sem levantar suas suspeitas, e ela talvez
+me dará a resposta que desejo.
+Mais uma coisa que um bom detetive particular sabe: nunca encerre uma conversação após obter
+a informação-chave. Outras duas ou três perguntas, um pouco de bate-papo e então pode dizer adeus.
+Mais tarde, se a vítima se lembrar de alguma coisa que você perguntou, provavelmente ela se lembra-
+rá das últimas perguntas. O restante em geral será esquecido.
+Assim, Chris me deu o seu número de ID de Comerciante e o número de telefone que eles ligam
+para fazer as solicitações, Eu ficaria mais feliz se tivesse feito algumas perguntas sobre quantas infor-
+mações é possível obter da CreditChex. Mas achei melhor não abusar da minha sorte.
+Isso era como ter um cheque em branco da CreditChex. Agora eu podia ligar e obter informações
+sempre que quisesse. E nem tinha de pagar pelo serviço. O representante da CreditChex ficou satis-
+feito em compartilhar exatamente das informações que eu queria; os dois lugares nos quais o marido
+da minha cliente havia se inscrito recentemente para abrir uma conta. Assim sendo, onde estavam os
+bens que a sua futura ex-mulher estava procurando? Onde mais além das instituições bancárias que o
+funcionário da CreditChex relacionou?
+Recado do
+Mitnick
+Um ID de Comerciante nessa situação é como uma senha. Se o pessoal do banco o tra-
+tasse como uma senha de caixa eletrônico, eles poderiam apreciar a natureza delicada
+das informações. Há algum código interno ou um número na sua organização que não
+esteja sendo tratado com cuidado suficiente pelas pessoas?
+Analisando a trapaça
+Todo esse ardil baseou-se em uma das táticas fundamentais da engenharia social: ganhar acesso ás in-
+formações que o empregado de uma empresa trata como inofensivas, quando na verdade elas não são.
+A primeira funcionária do banco confirmou a terminologia para descrever o número de identifica-
+ção usado ao ligar para o CreditChex: o ID de Comerciante. A segunda forneceu o número de telefone
+para ligar para o CreditChex e a informação mais vital: o número de ID de Comerciante. Todas essas
+informações pareciam ser inofensivas para a funcionária. Afinal de contas, ela achou que estava falando
+com alguém do CreditChex — e assim, qual seria o mal de divulgar o número?18
+A Arte de Enganar
+Tudo isso criou a base para a terceira ligação. Grace tinha tudo o que precisava para ligar para a
+CreditChex, para se passar como representante de um de seus bancos clientes, o National, e simples-
+mente pedir as informações que estava querendo.
+Com habilidades para roubar informações tão boas quanto aquelas que um trapaceiro tem para
+roubar o seu dinheiro, Grace tinha talentos bem treinados para ler as pessoas. Ele conhecia a tática
+comum de esconder as principais perguntas entre aquelas mais inocentes. Ele sabia que uma pergunta
+pessoal testaria a disposição da segunda funcionária em cooperar antes de pedir inocentemente o
+número do ID de Comerciante.
+O erro do primeiro funcionário ao confirmar a terminologia para o número do ID do CreditChex
+foi um erro quase impossível de ser evitado. As informações são tão conhecidas dentro da indústria
+bancária que elas parecem não ter importância — o próprio modelo da inocência. Mas a segunda
+funcionária, Chris, não deveria ter sido tão disposta a responder perguntas sem verificar se o interlo-
+cutor era de fato quem dizia ser Ela deveria pelo menos ter anotado seu nome e número e ter ligado
+novamente. Dessa forma, se mais tarde surgisse alguma dúvida, ela teria um registro do número do
+telefone usado pela pessoa. Neste caso, uma ligação como essa tomaria muito mais difícil para o
+atacante disfarçar-se de representante do CreditChex.
+Teria sido melhor ainda ligar para o CreditChex usando um número que o banco já tinha em seus
+registros — não um número fornecido pelo interlocutor — para verificar se a pessoa realmente traba-
+lhava lá, e se a empresa eslava realmente fazendo uma pesquisa com os clientes. Dados os detalhes
+práticos do mundo real e as pressões de tempo sob as quais a maioria das pessoas trabalha hoje em
+dia. seria muito esperar esse tipo de ligação telefônica de verificação, exceto quando um empregado
+suspeita de que algum tipo de ataque está sendo realizado,
+A ARMADILHA DE ENGENHEIRO
+E de conhecimento geral que as empresas caça-talentos usam as táticas da engenharia social para
+recrutar talentos corporativos. Este é um exemplo de como isso pode acontecer.
+No final dos anos de 1990, uma agência de empregos não muito ética conseguiu um cliente novo,
+uma empresa que estava procurando engenheiros elétricos com experiência na indústria de telefonia,
+O pivô do projeto era uma senhora dotada de uma voz rouca e um modo sexy que ela havia aprendido
+a usar para desenvolver a confiança inicial e afinidade pelo telefone.
+A senhora resolveu atacar um provedor de serviços de telefonia celular para saber se ela pode-
+ria localizar alguns engenheiros que estivessem tentados a atravessar a rua e ir trabalhar para um
+concorrente. Ela não podia ligar para a telefonista e dizer "Quero falar com alguém que tenha cinco
+anos de experiência como engenheiro". Em vez disso, por motivos que ficarão claros em alguns
+instantes, ela começou o assalto aos talentos buscando uma informação que parecia não ser nada
+sigilosa, uma informação que a empresa dá para quase todas as pessoas que a pedem.
+A primeira ligação: a recepcionista
+Usando o nome Didi Sands, a atacante fez uma ligação para os escritórios da empresa
+de telefonia celular. Esta foi parte da conversação:
+Recepcionista: Boa tarde. Sou Marie. posso ajudar?
+Didi:
+Você pode me passar para o Departamento de Transportes?Capitulo 2
+R:
+Quando as Informações Não São Inofensivas
+19
+Eu não sei se temos um, vou procurar na minha listagem. Com quem falo?
+D: Aqui é Didi.
+R: Você está ligando do prédio ou.,.?
+D: Não, eu estou fora do prédio.
+R:
+Didi de quê?
+D: Didi Sands. Eu tinha o ramal de Transportes, mas esqueci.
+R:
+Um momento.
+Para evitar suspeitas, nesse ponto Didi fez uma pergunta casual só para manter a conver-
+sação, com a intenção de estabelecer o fato de que ela estava "por dentro" e familiarizada
+com as localizações da empresa.
+D:Em qual prédio você está — Lakeview ou Main Place?
+R:Main Place. (pausa) O número é 805 555 6469.
+Para ter um backup caso a ligação para Transportes não fornecesse aquilo que ela estava
+procurando, Didi disse que ela também queria falar com Imóveis. A recepcionista deu esse
+número também. Quando Didi pediu para ser transferida para Transportes, a recepcionis-
+ta tentou, mas a linha estava ocupada.
+Nesse ponto, Didi pediu um terceiro número de telefone, o de Contas a Receber, o qual
+estava localizado em um prédio corporativo em Austin, no Texas. A recepcionista pediu
+para ela aguardar um momento e saiu da linha. Ela estava consultando a Segurança dizen-
+do que estava com uma ligação telefônica suspeita e achou que havia algo de estranho.
+De forma alguma, responderam, e Didi não teve a menor preocupação. Ela estava fican-
+do meio aborrecida, mas para a recepcionista isso tudo fazia parte de um dia normal de
+trabalho. Após cerca de um minuto, a recepcionista voltou à linha procurou o número
+de Contas a Receber, fez a transferência e colocou Didi na linha.
+A segunda ligação: Peggy
+A próxima conversação foi assim:
+Peggy:
+Didi:
+P:
+Contas a Receber, Peggy.
+Oi, Peggy. Aqui é Didi, de Thousand Oaks.
+Oi, Didi.
+D: Como vai?
+P:
+Tudo bem.
+Em seguida, Didi usou um termo familiar no mundo corporativo que descreve o código
+de cobrança para designar as despesas no orçamento de uma organização ou grupo de
+trabalho específico:
+D;Excelente. Tenho uma pergunta. Como encontro o centro de custo de determinado
+departamento?
+P;Você tem de falar com o analista de orçamento do departamento.
+D:Você sabe quem é o analista de orçamento para Thousand Oaks — a sede? Eu estou
+tentando preencher um formulário e não sei qual é o centro de custo apropriado.
+P:Só sei que quando você precisa do número do centro de custo, você liga para o seu
+analista de orçamento.20
+A Arte de Enganar
+D:
+P:Você tem um centro de custo no seu departamento ai no Texas?
+Temos o nosso próprio centro de custo, mas eles não nos dão a lista com todos
+eles.
+D:Quantos dígitos tem o centro de custo? Por exemplo, qual é o seu centro de custo?
+P:Bem, você trabalha no 9WC ou no SAT?
+Didi não tinha a menor idéia de quais eram esses departamentos ou grupos, mas isso não
+importava. Ela respondeu:
+D: 9WC.
+P: Então em geral são quatro dígitos. Onde você disse que trabalhava?
+D: Na sede em Thousand Oaks.
+P: Bem, aqui tem um para Thousand Oaks, Ê 1A5N, com N de Nancy.
+Falando apenas o tempo suficiente com alguém que estava disposto a ajudar, Didi con-
+seguiu o número do centro de custo de que precisava — uma daquelas informações que
+ninguém pensa em proteger, porque parece algo que nunca terá valor para uma pessoa
+de fora.
+A terceira ligação: um número errado útil
+A próxima etapa para Didi seria explorar o número do centro de custo e transformá-lo
+em algo de valor verdadeiro, usando-o como uma ficha de pôquer.
+Ela começou ligando para o departamento de Imóveis fingindo ter ligado para um
+número errado. Começando com um "Desculpe incomodar, mas...", ela disse que era
+uma funcionária que havia perdido a lista de telefones da empresa e perguntou para
+quem ela deveria ligar para conseguir uma outra cópia. O homem disse que a cópia
+impressa estava desatualizada, porque ela estava disponível no site da intranet da
+empresa.
+Didi disse que preferia usar uma cópia impressa e o homem disse para ela ligar para Pu-
+blicações e, em seguida, sem que ela pedisse — talvez só para manter a senhora com voz
+sexy mais um pouco na linha — procurou o número e o forneceu para ela.
+A quarta ligação: Bart, em Publicações
+Em Publicações, ela falou com um homem chamado Bart. Didi disse que era de
+Thousand Oaks e que eles tinham um consultor novo que precisava de uma cópia da
+lista de telefones da empresa. Ela disse que uma cópia impressa funcionaria melhor
+para o consultor, mesmo que estivesse meio desatualizada. Bart disse que ela teria de
+preencher um formulário de requisição e enviá-lo para ele.
+Didi disse que estava sem formulários e com muita pressa, e perguntou se Bart não pode-
+ria fazer o favor de preencher o formulário para ela. Ele concordou, não muito entusiasma-
+do, e Didi forneceu os detalhes. Como endereço da contratada fictícia, ela deu o número
+daquilo que os engenheiros sociais chamam de rnail drop, o qual, nesse caso, era uma
+empresa de caixas postais na qual a sua empresa alugava caixas postais para situações
+como aquela.
+A preliminar anterior tornou-se útil agora: seria cobrada uma taxa pelo custo e envio da
+lista. Muito bem — Didi deu o centro de custo de Thousand Oaks:
+"1A5N, com N de Nancy".Capítulo 2
+Quando as Informações Não São Inofensivas
+21
+Jargão
+MAIL DROP O termo do engenheiro social para uma caixa postal alugada, em geral
+com um nome fictício, a qual é usada para o recebimento de documentos ou pacotes
+que a vítima foi convencida a enviar.
+Alguns dias depois, quando chegou a lista de telefones corporativos, Didi descobriu que
+isso valia mais a pena do que ela havia imaginado: ela não apenas tinha os nomes e nú-
+meros de telefones, mas também quem trabalhava para quem — a estrutura corporativa
+de toda a organização.
+A senhora de voz forte estava pronta para começar a caçar o seu talento e fazer ligações
+telefônicas em busca de pessoas. Ela havia trapaceado as informações que precisava ter
+para iniciar o seu ataque usando o dom da palavra lapidado ao máximo que cada enge-
+nheiro social habilidoso tem. Agora ela estava pronta para receber a recompensa.
+Recado
+do
+Mitnick
+Assim como as peças de um quebra-cabeça, cada informação parece irrelevante sozi-
+nha. Porém, quando as peças são juntadas, uma figura aparece. Neste caso, a figura do
+engenheiro social mostrou toda a estrutura interna da empresa.
+Analisando a trapaça
+Neste ataque da engenharia social, Didi começou conseguindo os telefones dos três departamentos
+da empresa-alvo. Isso foi fácil, os números que ela queria não eram segredo, particularmente para os
+empregados. Um engenheiro social aprende a se fazer passar por alguém de dentro da empresa e Didi
+fazia isso com habilidade,
+Um dos números de telefone a levaram a um número de centro de custo, o qual foi usado em
+seguida para obter uma cópia da lista de telefones dos funcionários da empresa.
+As principais ferramentas que ela precisava ter: parecer amistosa, usar um pouco do jargão cor-
+porativo e, com a última vítima, jogar um pouco de areia nos olhos dos outros.
+E mais uma ferramenta, um elemento essencial que não pode ser adquirido facilmente — as ha-
+bilidades de manipulação do engenheiro social refinadas por meio de extensa prática e as lições não
+escritas pelas gerações de homens de confiança.
+MAIS I N F O R M A Ç Õ E S "VALIOSAS"
+Alem de um número de centro de custo e dos ramais dos telefones internos, quais outras informações
+aparentemente inúteis podem ser valiosíssimas para o seu inimigo?
+Ligação telefônica para Peter Abel
+"Oi", a voz no outro lado da linha diz. "Sou Tom. da Parkhurst Travel. As suas passagens
+para São Francisco estão prontas. Você quer que as entreguemos ou vai retirá-las?"22
+A Arte de Enganar
+"São Francisco?", diz Peter. "Eu não vou para São Francisco."
+"O senhor é Peter Abeis?"
+"Sim, mas eu não tenho nenhuma viagem programada."
+"Bem", disse o interlocutor com uma risada amistosa, Você tem certeza de que não quer
+ir a São Francisco?",
+"Se você acha que pode convencer o meu chefe... ", retruca Peter, brincando com a
+conversa amistosa.
+"Parece que houve alguma confusão", salienta o interlocutor, "No nosso sistema, tomamos
+as providências de viagem pelo número de empregado. Talvez alguém tenha usado o
+número errado. Qual é o seu número de empregado?"
+Peter informa o seu número. E por que não? Ele aparece em quase todos os formulá-
+rios pessoais que preenche, muitas pessoas da empresa têm acesso a ele — recursos
+humanos, folha de pagamento e, obviamente, a agência externa de viagens. Ninguém
+trata um número de empregado como um segredo. Que diferença faria?
+A resposta não é difícil de descobrir. Duas ou três informações seriam o suficiente para
+montar uma farsa efetiva — o engenheiro social usando a identidade de outra pessoa.
+Consiga o nome de um empregado, o seu número de telefone, o seu número de emprega-
+do, e quem sabe também o nome e número de telefone do seu gerente, e um engenheiro
+social a caminho de ser competente tem a maior parte daquilo que ele precisa para pare-
+cer autêntico para o próximo alvo.
+Se alguém dizendo que era de outro departamento dentro da sua empresa ligasse ontem,
+desse um motivo plausível e pedisse o seu número de empregado, você relutaria em dar-
+lhe a informação?
+E por falar nisso, qual é o seu número de seguro social?
+Recado do
+Mitnick
+A moral da história é: não dê nenhuma informação pessoal ou interna da empresa, nem
+identificadores para ninguém, a menos que a sua voz seja conhecida e o solicitante
+tenha necessidade de saber a informação.
